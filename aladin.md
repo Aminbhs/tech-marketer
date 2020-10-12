@@ -15,4 +15,6 @@ Avec au milieu une valeur par default qui apparait si il n’y a pas de personna
 
 ### 3 - Tu peux utiliser l’url de ton site en ajoutant en parametre
 ?trb_your_team=Styx
-https://www.tribly.co/fr/rh?trb_your_team=Styx
+```
+https://tribly.herokuapp.com/fr/rh?trb_your_team=Styx
+```
